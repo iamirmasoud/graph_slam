@@ -30,7 +30,7 @@ cd graph_slam
 	activate slam_env
 	```
 	
-	At this point your command line should look something like: `(slam_env) <User>:P3_Implement_SLAM <user>$`. The `(slam_env)` indicates that your environment has been activated, and you can proceed with further package installations.
+	At this point your command line should look something like: `(slam_env) <User>:graph_slam <user>$`. The `(slam_env)` indicates that your environment has been activated, and you can proceed with further package installations.
 
 6. Install a few required pip packages, which are specified in the requirements text file (including OpenCV).
 ```
