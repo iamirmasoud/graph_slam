@@ -17,11 +17,11 @@ git clone https://github.com/iamirmasoud/graph_slam.git
 cd graph_slam
 ```
 
-2. Create (and activate) a new environment, named `cv-nd` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
+2. Create (and activate) a new environment, named `slam_env` with Python 3.6. If prompted to proceed with the install `(Proceed [y]/n)` type y.
 
 	- __Linux__ or __Mac__: 
 	```
-	conda create -n slam_env python=3.6
+	conda create -n slam_env python=3.9
 	source activate slam_env
 	```
 	- __Windows__: 
